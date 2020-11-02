@@ -2,3 +2,7 @@ CPU
 KeyBoard
 Mouse
 Monitor
+
+
+CPU2
+keyBoard2

@@ -6,3 +6,4 @@ Monitor
 
 CPU2
 keyBoard2
+Monitor2
